@@ -1,0 +1,2 @@
+Devops is important because we learn the principles and stratiges of a combination of software development and IT
+operations.
