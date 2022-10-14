@@ -1,0 +1,18 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+DevOps is complementary with Agile software development; several DevOps aspects came from the Agile way of working.
+
+Course Contact Information:
+Professor: Mr. Pritesh Patel
+Email pritesh.patel2@georgebrown.ca
+Notes
+If you are willing to join the Slack for an easy and handy medium of communication you are free to join the SLACK workspace. We are going to use slack for only informal communication. All the official matters must be communicated using your GBC email address to my GBC email address pritesh.patel2@georgebrown.ca.
+Feel free to reach out to me with any questions. When outside of class, you can contact me through email or through Slack. I will do my best to respond to your email ASAP, but given the volume of emails, sometimes it's a little easier said than done.
+A Slack group has been created for this course. The intent of the group is for us to explore as a class and to get in touch with me for urgent matters, Slack will typically provide you with a response quicker than an email for course-related queries. In our Slack group, we also have channels (#gbcf2022-comp3104) set up for us to collaborate and learn together. If utilized, it can be a great resource but it is not a requisite for you to install or use. I've left a join link below should you be enticed to Slack.
+
+Slack invite: https://join.slack.com/t/moxdroidlabs/shared_invite/zt-v9ptyqsi-ETqsooxpAPRxFRNX1hF4fw
+After successfully joining the slack workspace please join the #gbcf2022-comp3104 channel.
+
+Link/s:
+https://en.wikipedia.org/wiki/DevOps
+https://aws.amazon.com/devops/what-is-devops/
