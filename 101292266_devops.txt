@@ -1,0 +1,13 @@
+#!/git/bash
+# COMP3104 - DEVOPS
+# Le An Nguyen - 101292266
+#
+# DevOps term was formed as a combination of ["Dev"elopment] and ["Op"eration"s"]
+#
+# **** Refer to Professor Patel lectures ****
+# DevOps is a set of practices that works to automate and integrate the processes between software 
+development and IT teams, so they can build, test, and release software faster and more reliable.
+#
+# The career in DevOps is really progressive and great future. It has been observed that DevOps brings 
+the revolution in the entire industry of information technology where large applications have been 
+developed and enhanced.
