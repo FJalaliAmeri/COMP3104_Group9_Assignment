@@ -4,3 +4,7 @@
 # Le An Nguyen - 101292266
 #
 # SDLC stands for Software Development Life Cycle
+#
+# There are many phases such as continuous development, continuous integration, continuous testing, and 
+continuous monitoring constitute Devops Life Cycle
+#
