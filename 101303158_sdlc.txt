@@ -1,0 +1,5 @@
+Effectively implementing DevOps methods would enable a process based on simplicity of deploying code to production servers, 
+applying hot-fixes, catching mistakes before they result in some form of unexpected behavior,
+and maintaining increased transparency & communication across all teams. 
+A developer that approaches the software development lifecycle from the perspective of a DevOps Engineer 
+will be more knowledgeable and skilled.
