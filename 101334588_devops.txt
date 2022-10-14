@@ -12,3 +12,7 @@ A Slack group has been created for this course. The intent of the group is for u
 
 Slack invite: https://join.slack.com/t/moxdroidlabs/shared_invite/zt-v9ptyqsi-ETqsooxpAPRxFRNX1hF4fw
 After successfully joining the slack workspace please join the #gbcf2022-comp3104 channel.
+
+Link/s:
+https://en.wikipedia.org/wiki/DevOps
+https://aws.amazon.com/devops/what-is-devops/
