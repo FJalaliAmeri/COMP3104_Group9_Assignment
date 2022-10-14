@@ -1,0 +1,6 @@
+#!/git/bash
+# COMP3104 - DEVOPS
+# Assignment 1
+# Le An Nguyen - 101292266
+#
+# SDLC stands for Software Development Life Cycle
