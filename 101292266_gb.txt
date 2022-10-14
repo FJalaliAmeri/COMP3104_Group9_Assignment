@@ -1,1 +1,7 @@
 #!/git/bash
+# COMP3104 - DEVOPS
+# Assignment 1
+# Le An Nguyen - 101292266
+#
+# George Brown College provides all types of education program such as full-time and part-time and 
+continuing to suit everyone availability and allow people to achieve a diploma, degree or certificate
