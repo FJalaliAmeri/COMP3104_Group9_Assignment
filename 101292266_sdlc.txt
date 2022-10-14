@@ -8,3 +8,7 @@
 # There are many phases such as continuous development, continuous integration, continuous testing, and 
 continuous monitoring constitute Devops Life Cycle
 #
+# Continuous Testing is where the software is continuously tested for bugs and other problems. There 
+are tools that's well-known as Selenium, TestNG, JUnit, etc.
+# Docker Containers for code-based testing are also used.
+# Jenkins is used to provide the automation testing by Selenium, report generator by TestNG.
