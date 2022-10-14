@@ -1,0 +1,3 @@
+The goal of this course is to properly equip professionals going into the IT industry.
+Notably, a field where infrastructure, servers, and web apps will be essential to business requirements. 
+Through the use of tried-and-true DevOps technologies, COMP 3104 will give students a hands-on learning experience.
