@@ -1,0 +1,8 @@
+Devops is a 15 week course where we learn about the software development cycle.
+It is taught by Pritesh Patel. 
+In this course we have:
+8 quizzes 8%
+8 lab exercises 16%
+2 assignments 10% and 16%
+midterm exam 20%
+final exam 30%

@@ -1,0 +1,4 @@
+Devops is important because we learn the principles and stratiges of a combination of software development and IT
+operations.
+Devops plays a crucial role in the industry and by learning it we are better able to prepare for our future in the industy.
+Further infromation on https://www.appdynamics.com/topics/why-devops-is-important#~benefits-of-devops

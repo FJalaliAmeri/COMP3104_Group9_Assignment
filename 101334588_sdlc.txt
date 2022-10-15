@@ -1,0 +1,11 @@
+DevOps engineers build new skills on top of their current experience.
+
+Tasks like data management and library updates for new product releases combine with needs for leadership and collaboration across teams.
+
+It is important for DevOps engineers to understand the fundamentals of application development and delivery.
+
+
+Link/s:
+https://www.appdynamics.com/topics/why-devops-is-important
+https://www.altexsoft.com/blog/engineering/devops-principles-practices-and-devops-engineer-role/
+https://www.chakray.com/what-is-devops-and-why-is-it-important/
